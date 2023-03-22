@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MobileAppDevProject</string>
+    <string name="tap_the_button_below_to_see_your_task_for_today">Нажимте кнопку, чтобы увидеть ваше задание на сегодня!</string>
+    <string name="show_task">Показать задание</string>
+    <string name="your_task_for_taday">Ваше задание на сегодня:</string>
+    <string name="go_get_another_task">Получить другое задание</string>
+    <string name="go_to_translator">Открыть переводчик</string>
+</resources>

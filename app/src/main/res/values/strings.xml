@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">MobileAppDevProject</string>
+    <string name="tap_the_button_below_to_see_your_task_for_today">Tap the button below to see your task for today!</string>
+    <string name="show_task">Show task</string>
+    <string name="your_task_for_taday">Your task for taday:</string>
+    <string name="go_get_another_task">Go get another task</string>
+    <string name="go_to_translator">Go to translator</string>
+</resources>
